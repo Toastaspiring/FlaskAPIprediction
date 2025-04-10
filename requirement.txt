@@ -1,0 +1,4 @@
+flask
+flask-restx
+scikit-learn
+pandas
